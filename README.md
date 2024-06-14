@@ -28,7 +28,7 @@ WiredIn is a community-driven platform, and your support can help us grow and im
 ### Profile Page
 <br/>
 
-![image](https://github.com/GurkarnSD/WiredIn-Info/assets/105836862/26350a21-95cb-46c0-907c-d73bf4759894)
+![image](https://github.com/GurkarnSD/WiredIn-Info/assets/105836862/51fa9d40-63fe-40ed-8988-cae9455ea2f0)
 
 ### Feed
 
