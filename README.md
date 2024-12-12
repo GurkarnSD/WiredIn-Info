@@ -12,13 +12,13 @@ WiredIn offers several features to facilitate collaboration and learning among d
 - **Messaging**: Communicate with other developers privately to discuss projects, share ideas, or ask for help.
 
 ## Getting Started
-To get started with WiredIn, simply sign up for an account on our website [WiredIn.social](http://wiredin.social). Once logged in, you can explore the various features and start connecting with other developers.
+To get started with WiredIn, simply sign up for an account on our website [wired-in.vercel.app](http:/wired-in.vercel.app). Once logged in, you can explore the various features and start connecting with other developers.
 
 ## Contributing
 We welcome contributions from the developer community to help improve WiredIn. If you have any ideas for new features, bug fixes, or improvements, please feel free to submit a pull request or open an issue on our [GitHub repository](https://github.com/GurkarnSD/WiredIn-Info).
 
 ## Feedback
-Your feedback is valuable to us! If you encounter any issues, have suggestions for improvement, or just want to share your thoughts, please don't hesitate to reach out to us through our [contact form](http://wiredin.social/contactus). You need to be logged in to reach this page.
+Your feedback is valuable to us! If you encounter any issues, have suggestions for improvement, or just want to share your thoughts, please don't hesitate to reach out to us through our [contact form](http://wired-in.vercel.app/contactus). You need to be logged in to reach this page.
 
 ## Donations
 WiredIn is a community-driven platform, and your support can help us grow and improve. If you find WiredIn useful and would like to contribute financially, please consider making a donation. Your donations will go towards server maintenance, development costs, and expanding our features to better serve the developer community. You can donate by visiting our [donation page](https://buymeacoffee.com/wiredin).
