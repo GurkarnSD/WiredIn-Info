@@ -20,9 +20,6 @@ We welcome contributions from the developer community to help improve WiredIn. I
 ## Feedback
 Your feedback is valuable to us! If you encounter any issues, have suggestions for improvement, or just want to share your thoughts, please don't hesitate to reach out to us through our [contact form](http://wired-in.vercel.app/contactus). You need to be logged in to reach this page.
 
-## Donations
-WiredIn is a community-driven platform, and your support can help us grow and improve. If you find WiredIn useful and would like to contribute financially, please consider making a donation. Your donations will go towards server maintenance, development costs, and expanding our features to better serve the developer community. You can donate by visiting our [donation page](https://buymeacoffee.com/wiredin).
-
 ## Preview
 
 ### Profile Page
